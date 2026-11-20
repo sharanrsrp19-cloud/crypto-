@@ -1,0 +1,6 @@
+{
+  "name": "Cryptocurrency Statistical Analytics Dashboard",
+  "description": "College statistics research platform for analyzing cryptocurrency prices, daily returns, volatility, correlation, linear regression, and ANOVA hypothesis testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
